@@ -9,5 +9,5 @@ The project include the following steps:
 1. Exploratory Data Analysis
 2. Association Rules: 
 Function: freq(obj) Returns the count of the item and item_pairs, If the input to function is series then return the count, else change the Dataframe to the Series and return the count by using Counter function in Python.
-3. # Finding the Users having likeness for the same Products using TFIDF.
-4. # Identification of Customer Segments using PCA and KMeans
+3. Finding the Users having likeness for the same Products using TFIDF.
+4. Identification of Customer Segments using PCA and KMeans
